@@ -1,4 +1,0 @@
-This is a text file 
-for testing only
-
-C++

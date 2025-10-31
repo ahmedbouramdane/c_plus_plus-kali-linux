@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    fstream file("file.txt");
+    fstream file("./data/file.txt");
     string line;
     while (getline(file, line))
     {
