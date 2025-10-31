@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "C_Cpp.default.cStandard": "gnu17",
+    "C_Cpp.default.cppStandard": "gnu++17",
+    "terminal.integrated.defaultProfile.linux": "Ubuntu",
+    "makefile.configurations": [
+        {
+            "name": "WSL Linux Build",
+            "makePath": "/usr/bin/make"
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
